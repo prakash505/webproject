@@ -3,7 +3,7 @@
  
   <groupId>koddas.web.war</groupId>
   <artifactId>wwp</artifactId>
-  <version>1.0.0-sanpshot</version>
+  <version>1.0.0-snapshot</version>
   <packaging>war</packaging>
   <name>WAR Web Project</name>
  
